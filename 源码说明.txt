@@ -1,0 +1,15 @@
+工具：idea+ mysql + JDK + tomcat
+技术：SpringBoot+Spring Data Jpa++SpringMvc+Shiro安全认证+完整权限系统+easyui
+
+SpringBoot架构，Shiro安全认证，完整权限系统
+
+
+
+
+
+
+
+
+
+
+
